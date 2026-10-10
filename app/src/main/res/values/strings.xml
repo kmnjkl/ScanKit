@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">CameraX</string>
     <string name="scan">Scan</string>
+    <string name="save_to_gallery">Save to gallery</string>
+    <string name="copy_to_clipboard">Copy image</string>
+    <string name="saved_to_gallery">Image saved to the gallery (Pictures/Scans)</string>
+    <string name="save_failed">Failed to save the image</string>
+    <string name="copied_to_clipboard">Image copied to clipboard</string>
+    <string name="copy_failed">Failed to copy the image</string>
 </resources>
