@@ -52,7 +52,7 @@ class MainActivity : ComponentActivity() {
             .setScannerMode(SCANNER_MODE_FULL)
             .setPageLimit(3)
             .setGalleryImportAllowed(false)
-            .setResultFormats(RESULT_FORMAT_JPEG, RESULT_FORMAT_PDF)
+            .setResultFormats(RESULT_FORMAT_JPEG)
             .build()
 
         val scanner = GmsDocumentScanning.getClient(options)
